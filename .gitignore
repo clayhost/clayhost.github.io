@@ -1,3 +1,4 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+ErrorDocument 404 /404.html
